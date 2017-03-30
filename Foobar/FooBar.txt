@@ -1,0 +1,44 @@
+Install - foobar
+
+Components
+foo_audioscrobbler
+foo_discogs
+foo_playcount
+foo_plorg + vcredist
+foo_texttools
+foo_w7shell
+foo_deskbandcontrols
+
+
+
+Albumlists
+
+by album
+%album%[ '['%album artist%']']|[[%discnumber%.]%tracknumber%. ][%track artist% - ]%title%
+
+by artist%
+%album artist%|['['$substr(%date%,0,4)']'] %album%|[[%discnumber%.]%tracknumber%. ][%track artist% - ]%title%
+
+by genre
+%<genre>%|[%album artist% - ]%album%|[[%discnumber%.]%tracknumber%. ][%track artist% - ]%title%
+
+by year
+%<date>%|[%album artist% - ]%album%|[[%discnumber%.]%tracknumber%. ][%track artist% - ]%title%
+
+by artist/album
+[%album artist% - ]['['%date% : %<genre>%']' ]%album%|[[%discnumber%.]%tracknumber%. ][%track artist% - ]%title%
+
+by date added
+$substr(%added%,0,7)|$substr(%added%,9,10)|[%album artist% - ]['['%date%']' ]%album%|[[%discnumber%.]%tracknumber%. ][%track artist% - ]%title%
+
+by find
+%<find>%|[%album artist%]|['['%date%']' ] %album%|[[%discnumber%.]%tracknumber%. ][%track artist% - ]%title%
+
+by catalog #
+$substr(%catalog #%,0,4)|$substr(%catalog #%,5,7) [%album artist% - ]%album% '['%genre%']'
+
+by track
+$substr(%title%,0,1)|%title% - %artist%
+
+by duration
+$substr(%length%,0,2)|%title% - %artist%
