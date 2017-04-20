@@ -7,91 +7,102 @@ Filename="c:\users\dan\Tools\cmder\Cmder.exe"
 Notes="Start a command prompt"
 GUID={04CCB76B-9963-4DF7-A375-3723FFDFF602}
 StartMode=5
-UseCount=47
+UseCount=207
 [backup]
 Filename="c:\Users\Dan\Tools\Beyond Compare 4\BComp.exe"
 GUID={419022C1-868D-4B9D-B042-B3292072AC1A}
 StartMode=1
+UseCount=9
 [burn]
 Filename="C:\Program Files (x86)\ImgBurn\ImgBurn.exe"
 GUID={379C5EE9-5A74-476D-AF3E-61C54A6330BD}
 StartMode=1
-UseCount=1
-[compare]
-Filename="C:\Program Files (x86)\Beyond Compare 4\BCompare.exe"
-GUID={F0986D89-DFEE-4B60-BE59-E55D6E83F993}
-StartMode=1
+UseCount=5
 [ff]
 Filename="C:\Program Files\Waterfox\waterfox.exe"
 Params="-private"
 GUID={9CEDF70F-4FFE-484F-9677-FE414FB8FF0B}
 StartMode=1
-UseCount=31
+UseCount=262
 [foobar]
 Filename="C:\Program Files (x86)\foobar2000\foobar2000.exe"
 GUID={F0639C8D-C204-4538-AADD-9BF52EC95F8C}
 StartMode=1
+UseCount=4
 [iplayer]
 Filename="iexplore"
 Params="http://bbc.co.uk/iplayer"
 GUID={6D08EFDD-92AD-4C18-B169-DD9BB81E1B23}
 StartMode=1
-UseCount=13
+UseCount=80
+[log]
+Filename="C:\Users\Dan\Documents\manning\log.txt"
+GUID={866B6264-2C4C-4FD0-A481-D1CA84BF3A34}
+StartMode=1
+UseCount=10
 [n]
 Filename="C:\Program Files (x86)\Notepad++\notepad++.exe"
 GUID={57DE0917-7545-4214-85CB-925C15CA7046}
 StartMode=1
-UseCount=47
+UseCount=309
 [outlook]
 Filename="C:\Program Files\Microsoft Office\root\Office16\OUTLOOK.EXE"
 GUID={28B679C9-2C0E-449F-A695-A91A26909F22}
 StartMode=1
-UseCount=12
+UseCount=23
 [paint]
 Filename="C:\Program Files\paint.net\PaintDotNet.exe"
 GUID={164C2368-2DA0-4E8D-90BD-17889F08AFAD}
 StartMode=1
+UseCount=15
+[photo]
+Filename="C:\Program Files (x86)\Windows Live\Photo Gallery\WLXPhotoGallery.exe"
+GUID={11E0A813-83CF-4684-8C31-850FCD9A67F2}
+StartMode=1
+UseCount=2
 [rip]
 Filename="C:\Program Files\dBpoweramp\CDGrab.exe"
 GUID={8C5FE03C-1E58-4C17-98C6-EBC38B432E50}
 StartMode=1
-UseCount=1
+UseCount=19
 [skype]
 Filename="C:\Program Files (x86)\Skype\Phone\Skype.exe"
 GUID={38EB217E-B06B-47E4-B232-4C1821A55746}
 StartMode=1
-UseCount=23
+UseCount=183
 [spotify]
 Filename="C:\Users\Dan\AppData\Roaming\Spotify\Spotify.exe"
 GUID={B2C84CDE-F396-49AC-9D02-F16CE36F644B}
 StartMode=1
-UseCount=9
+UseCount=35
 [vivaldi]
 Filename="C:\Program Files (x86)\Vivaldi\Application\vivaldi.exe"
 GUID={9271E0AE-4987-4025-A4DA-0391DB0BB710}
 StartMode=1
-UseCount=3
+UseCount=4
 [vlc]
-Filename="c:\Program Files\VideoLAN\VLC\vlc.exe"
+Filename="c:\Program Files (x86)\VideoLAN\VLC\vlc.exe"
 GUID={00BEF396-E111-4FD7-B7CE-C10125E9B12D}
 StartMode=1
+UseCount=5
 [word]
 Filename="C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE"
 GUID={91B66B2A-D274-4C1F-A8C2-14947C99C60D}
 StartMode=1
-UseCount=13
+UseCount=106
 [xcel]
 Filename="C:\Program Files\Microsoft Office\root\Office16\EXCEL.EXE"
 GUID={0F338C03-6970-4296-BC14-E34C391B6C7B}
 StartMode=1
-UseCount=2
+UseCount=45
 [xmage]
 Filename="C:\Users\Dan\Tools\xmage\XMageLauncher-0.3.8.jar"
 GUID={9257896D-FEA1-4BE0-9CEF-4D65B3A530C9}
 StartMode=1
-UseCount=39
+UseCount=181
 [youtube]
 Filename="iexplore"
 Params="http:\\www.youtube.com"
 GUID={57708446-0546-4F7B-A810-F5C9CC2185E0}
 StartMode=1
+UseCount=2
